@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis Indonesia with a strong passion for **bioinformatics research** and **backend development**. Currently working as a Research Assistant, focusing on antiviral drug discovery using computational methods and machine learning.
+I'm a **5th-semester Informatics student** at Universitas Informatika dan Bisnis Indonesia with a strong passion for **bioinformatics research** and **backend development**. Currently working as a Research Assistant, focusing on antiviral drug discovery using computational methods and machine learning.
 
 - 🔬 Currently researching **antiviral inhibitors** using molecular docking and ML approaches
 - 🌱 Learning advanced **machine learning techniques** and **bioinformatics algorithms**
@@ -18,8 +18,7 @@ I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis
 
 ## 🧬 Research Experience
 
-### Research Assistant | _July 2024 - Present_
-
+### Research Assistant | *July 2024 - Present*
 **Faculty of Informatics and Technology, Universitas Informatika dan Bisnis Indonesia**
 
 Working under **Venia Restreva Danestiara, M.Sc.** on cutting-edge antiviral research:
@@ -32,36 +31,30 @@ Working under **Venia Restreva Danestiara, M.Sc.** on cutting-edge antiviral res
 ## 📚 Publications
 
 ### 🔬 Research Papers
-
 1. **"Molecular Docking-Based Digital Screening for Dengue Virus NS2B-NS3pro Inhibitors"**
-
-   - _Co-author_ | Computational drug discovery for dengue virus inhibitors
+   - *Co-author* | Computational drug discovery for dengue virus inhibitors
 
 2. **"Creating NS2A Binding Affinity in Dengue Virus Using Hybrid Method for Antiviral Prediction"**
-   - _Co-author_ | Hybrid computational approach for antiviral drug prediction
+   - *Co-author* | Hybrid computational approach for antiviral drug prediction
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Bioinformatics Tools
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-FF6B6B?style=for-the-badge&logo=molecule&logoColor=white)
 
 ### Development Tools
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Skills & Technologies
-
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=analytics&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -80,6 +73,22 @@ Working under **Venia Restreva Danestiara, M.Sc.** on cutting-edge antiviral res
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufikaziz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🎮 GitHub Activity Animations
+
+<div align="center">
+
+### 🐍 My Contributions Snake
+![Snake animation](https://raw.githubusercontent.com/taufikaziz/taufikaziz/output/snake.svg)
+
+</div>
+
+<div align="center">
+
+### 🎮 Pacman Eating My Contributions
+![Pacman animation](https://raw.githubusercontent.com/taufikaziz/taufikaziz/output/pacman-contribution-graph.svg)
+
 </div>
 
 ## 🏆 Achievements
@@ -105,7 +114,7 @@ class BioinformaticsResearcher:
             "Backend Development",
             "Data Analysis"
         ]
-
+    
     def research_workflow(self):
         return [
             "Perform molecular docking simulations",
@@ -114,7 +123,7 @@ class BioinformaticsResearcher:
             "Develop REST APIs for data processing",
             "Write research papers and documentation"
         ]
-
+    
     def get_motto(self):
         return "Bridging biology and technology, one algorithm at a time! 🧬💻"
 ```
@@ -122,19 +131,16 @@ class BioinformaticsResearcher:
 ## 🌟 Featured Projects
 
 ### 🦠 Dengue Virus Inhibitor Screening
-
 - **Description**: Computational screening of potential inhibitors for dengue virus proteins
 - **Tech**: Python, AutoDock Vina, Machine Learning
 - **Impact**: Contributed to antiviral drug discovery research
 
 ### 🧬 Binding Affinity Prediction System
-
 - **Description**: ML-based system for predicting protein-ligand binding affinity
 - **Tech**: Python, Jupyter Notebook, Data Analytics
 - **Impact**: Enhanced accuracy of antiviral compound prediction
 
 ### 🔧 Bioinformatics REST API
-
 - **Description**: Backend API for bioinformatics data processing
 - **Tech**: Go, MySQL, REST API
 - **Impact**: Streamlined research data management
@@ -142,13 +148,11 @@ class BioinformaticsResearcher:
 ## 🎓 Education
 
 **🏛️ Universitas Informatika dan Bisnis Indonesia**
-
 - Bachelor of Informatics | **GPA: 3.73/4.00**
-- 5th Semester | _2022 - Present_
+- 5th Semester | *2022 - Present*
 
 **🎓 SMAN 19 Bandung**
-
-- Science Program | _2019 - 2022_
+- Science Program | *2019 - 2022*
 
 ## 📫 Let's Connect!
 
