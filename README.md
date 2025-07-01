@@ -98,35 +98,30 @@ Working under **Venia Restreva Danestiara, M.Sc.** on cutting-edge antiviral res
 - 📝 **Co-authored 2 research papers** in antiviral research
 - 🧬 **Molecular Docking Expert** with AutoDock Vina
 - 💻 **Backend Development Skills** in Go and MySQL
+# 💻 What I Do
 
-## 💻 What I Do
+## About Me
+**Name:** Taufik Abdul Aziz  
+**Role:** Research Assistant & Informatics Student  
+**University:** Universitas Informatika dan Bisnis Indonesia  
+**GPA:** 3.73
 
-```python
-class BioinformaticsResearcher:
-    def __init__(self):
-        self.name = "Taufik Abdul Aziz"
-        self.role = "Research Assistant & Informatics Student"
-        self.university = "Universitas Informatika dan Bisnis Indonesia"
-        self.gpa = 3.73
-        self.specialties = [
-            "Molecular Docking",
-            "Machine Learning",
-            "Backend Development",
-            "Data Analysis"
-        ]
-    
-    def research_workflow(self):
-        return [
-            "Perform molecular docking simulations",
-            "Analyze binding affinity data",
-            "Apply ML algorithms to biological data",
-            "Develop REST APIs for data processing",
-            "Write research papers and documentation"
-        ]
-    
-    def get_motto(self):
-        return "Bridging biology and technology, one algorithm at a time! 🧬💻"
-```
+## 🔬 Specialties
+- **Molecular Docking** - Computational drug discovery
+- **Machine Learning** - AI algorithms and data analysis  
+- **Backend Development** - Server-side programming
+- **Data Science** - Make statistical prediction for a model
+
+## 🚀 Research Workflow
+My research process includes:
+- Perform molecular docking simulations
+- Analyze binding affinity data
+- Apply ML algorithms to biological data
+- Develop REST APIs for data processing
+- Write research papers and documentation
+
+## 🎯 My Motto
+*"Bridging biology and technology, one algorithm at a time! 🧬💻"*
 
 ## 🌟 Featured Projects
 
