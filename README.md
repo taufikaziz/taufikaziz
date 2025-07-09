@@ -6,22 +6,20 @@
 
 ## 🚀 About Me
 
-I'm a **5th-semester Informatics student** at Universitas Informatika dan Bisnis Indonesia with a strong passion for **bioinformatics research** and **backend development**. Currently working as a Research Assistant, focusing on antiviral drug discovery using computational methods and machine learning.
+I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis Indonesia with a strong passion for **bioinformatics research** and **backend development**. Currently working as a Research Assistant, focusing on antiviral drug discovery using computational methods and machine learning.
 
 - 🔬 Currently researching **antiviral inhibitors** using molecular docking and ML approaches
 - 🌱 Learning advanced **machine learning techniques** and **bioinformatics algorithms**
 - 👯 Looking to collaborate on **bioinformatics projects** and **backend development**
 - 💬 Ask me about **molecular docking**, **data analysis**, **Go programming**, and **REST APIs**
 - 📫 How to reach me: **taufikabdulaziz10@gmail.com**
-- 🎓 **GPA: 3.73/4.00**
+- 🎓 **GPA: 3.78/4.00**
 - ⚡ Fun fact: I love bridging the gap between biology and technology!
 
 ## 🧬 Research Experience
 
 ### Research Assistant | *July 2024 - Present*
 **Faculty of Informatics and Technology, Universitas Informatika dan Bisnis Indonesia**
-
-Working under **Venia Restreva Danestiara, M.Sc.** on cutting-edge antiviral research:
 
 - 🦠 **Binding Affinity Prediction** of potential antivirus inhibitor candidates for NS2 and NS3 proteins
 - 🧪 **Molecular Docking** simulations for drug discovery
