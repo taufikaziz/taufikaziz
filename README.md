@@ -7,15 +7,19 @@
 
 ## 🚀 About Me
 
-I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis Indonesia with a strong passion for **bioinformatics research** and **backend development**. Currently working as a Research Assistant, focusing on antiviral drug discovery using computational methods and machine learning.
+I'm an **Informatics Graduate** from **Universitas Informatika dan Bisnis Indonesia (UNIBI)** passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Large Language Models**.
 
-- 🔬 Currently researching **antiviral inhibitors** using molecular docking and ML approaches
-- 🌱 Learning advanced **machine learning techniques** and **bioinformatics algorithms**
-- 👯 Looking to collaborate on **bioinformatics projects** and **backend development**
-- 💬 Ask me about **molecular docking**, **data analysis**, **Go programming**, and **REST APIs**
-- 📫 How to reach me: **taufikabdulaziz10@gmail.com**
-- 🎓 **GPA: 3.78/4.00**
-- ⚡ Fun fact: I love bridging the gap between biology and technology!
+My interests focus on developing intelligent systems using **Retrieval-Augmented Generation (RAG)**, **Optical Character Recognition (OCR)**, and **Machine Learning**.
+
+Previously, I worked as a **Research Assistant** in computational drug discovery, applying machine learning techniques to predict antiviral binding affinity.
+
+- 🤖 Building AI-powered applications
+- 🧠 Interested in LLM, RAG, NLP and Computer Vision
+- 🔬 Research experience in Machine Learning & Bioinformatics
+- 🌱 Currently learning MLOps, FastAPI and Docker
+- 📍 Bandung, Indonesia
+
+---
 
 ## 🧬 Research Experience
 
@@ -26,6 +30,44 @@ I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis
 - 🧪 **Molecular Docking** simulations for drug discovery
 - 📊 **Machine Learning** approaches for biological data analysis
 - 📝 **Co-authored** two significant research papers in antiviral research
+
+## 🚀 Featured Projects
+
+### 🤖 AI Learning Assistant Chatbot
+
+AI-powered chatbot capable of answering questions from both digital and scanned academic documents.
+
+**Tech Stack**
+
+- Python
+- Laravel
+- LangChain
+- FAISS
+- OCR
+- Llama
+- RAG
+- RAGAS
+
+---
+### 🧬 Binding Affinity Prediction
+
+Machine learning-based prediction of antiviral compound binding affinity.
+
+**Research Area**
+
+- Machine Learning
+- Bioinformatics
+- Molecular Docking
+- Data Analysis
+
+---
+
+### 🖥️ Backend Development
+
+REST API and web application development using Laravel and Python.
+
+---
+
 
 ## 📚 Publications
 
@@ -43,6 +85,14 @@ I'm a **6th-semester Informatics student** at Universitas Informatika dan Bisnis
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-green?style=for-the-badge)
 
 ### Bioinformatics Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
