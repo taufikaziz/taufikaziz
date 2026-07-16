@@ -153,7 +153,7 @@ REST API and web application development using Laravel and Python.
 **Name:** Taufik Abdul Aziz  
 **Role:** Research Assistant & Informatics Student  
 **University:** Universitas Informatika dan Bisnis Indonesia  
-**GPA:** 3.73
+**GPA:** 3.80
 
 ## 🔬 Specialties
 - **Molecular Docking** - Computational drug discovery
@@ -192,8 +192,7 @@ My research process includes:
 ## 🎓 Education
 
 **🏛️ Universitas Informatika dan Bisnis Indonesia**
-- Bachelor of Informatics | **GPA: 3.73/4.00**
-- 5th Semester | *2022 - Present*
+- Bachelor of Informatics | **GPA: 3.80/4.00**
 
 **🎓 SMAN 19 Bandung**
 - Science Program | *2019 - 2022*
