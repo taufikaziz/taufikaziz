@@ -196,7 +196,7 @@ My research process includes:
 ## 🎓 Education
 
 **🏛️ Universitas Informatika dan Bisnis Indonesia**
-- Bachelor of Informatics | **GPA: 3.80/4.00**
+- Bachelor of Informatics | **GPA: 3.80/4.00** | *2022 - 2026*
 
 **🎓 SMAN 19 Bandung**
 - Science Program | *2019 - 2022*
@@ -206,7 +206,7 @@ My research process includes:
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufikabdulaziz10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufikaziz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufik-abdul-aziz-a41960248/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taufikaziz)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289532080015)
 
