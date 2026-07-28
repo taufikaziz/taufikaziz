@@ -142,7 +142,7 @@ REST API and web application development using Laravel and Python.
 
 ## 🏆 Achievements
 
-- 🎓 **GPA 3.73/4.00** - Informatics Student
+- 🎓 **GPA 3.80/4.00** - Informatics Student
 - 🔬 **Research Assistant** in Bioinformatics
 - 📝 **Co-authored 2 research papers** in antiviral research
 - 🧬 **Molecular Docking Expert** with AutoDock Vina
