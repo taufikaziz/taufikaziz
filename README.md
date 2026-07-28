@@ -5,8 +5,7 @@
 
 ### AI Engineer | Machine Learning | LLM & RAG
 
-Informatics Graduate with experience building AI-powered applications,  
-Retrieval-Augmented Generation systems, and machine learning solutions.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;;LLM+RAG;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 📍 Bandung, Indonesia
 
