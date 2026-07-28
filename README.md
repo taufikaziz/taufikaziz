@@ -3,8 +3,6 @@
 
 <div align="center">
 
-### AI Engineer | Machine Learning | LLM & RAG
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;;LLM+RAG;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 📍 Bandung, Indonesia
